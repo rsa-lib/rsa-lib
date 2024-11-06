@@ -1,0 +1,22 @@
+# Created by Marcelo Bianchetti
+# Format:
+#   First line: S  |D|
+#   Other lines: <src	dst	#slots>
+15	17
+8	9	6
+6	9	6
+7	2	5
+0	1	2
+5	7	5
+8	2	1
+8	1	3
+4	6	8
+6	9	2
+10	5	1
+0	1	3
+4	2	1
+4	3	1
+10	6	4
+2	7	5
+10	4	6
+0	3	8

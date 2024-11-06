@@ -1,0 +1,10 @@
+Format file for the "B" Instances
+---------------------------------
+
+- Each file in the directory "instances" represents an instance.
+
+- The name of each instance file has the format "instance_[TOPOLOGY]_[SLOTS]_[SEED]_[DEMANDS].txt". For example, the instance file "instance_10n-44m-SmallNet_15_10_13.txt" corresponds to the topology called "10n-44m-SmallNet", has 15 slots, was generated with seed 10, and has 13 demands.
+
+- Each instance uses a particular topology (i.e., a grapg), and all available topologies used in the instances are provided in the "topologies" directory.
+
+- All files have a header, whose lines start with "#", explaining the file format.
